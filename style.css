@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.back-ground{
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) , url(image/header\ \(2\).jpeg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+.text{
+    text-align: center;
+    padding: 350px;
+    color: white;
+    font-size: x-large;
+}
+.text h1{
+    color:#FF305B ;
+}
